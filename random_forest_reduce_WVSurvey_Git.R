@@ -1,3 +1,6 @@
+#this script was created by Stefano Benati, professor at Università degli Studi di Trento
+#for inquiries write to stefano.benati@unitn.it
+
 setwd("DIRECTORY")
 
 W7 <- readRDS("EVS_WVS_Joint_v2_0.rds")
